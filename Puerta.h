@@ -2,8 +2,8 @@
 // Created by Maikol Guzman  on 2019-09-26.
 //
 
-#ifndef LAB_7_COMPOSICION_PUERTA_H
-#define LAB_7_COMPOSICION_PUERTA_H
+#ifndef LAB_8_COMPOSICION_PUERTA_H
+#define LAB_8_COMPOSICION_PUERTA_H
 
 
 class Puerta {
@@ -15,4 +15,4 @@ public:
 };
 
 
-#endif //LAB_7_COMPOSICION_PUERTA_H
+#endif //LAB_8_COMPOSICION_PUERTA_H

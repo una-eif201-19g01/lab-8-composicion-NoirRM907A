@@ -2,8 +2,8 @@
 // Created by Maikol Guzman  on 2019-09-26.
 //
 
-#ifndef LAB_7_COMPOSICION_RUEDA_H
-#define LAB_7_COMPOSICION_RUEDA_H
+#ifndef LAB_8_COMPOSICION_RUEDA_H
+#define LAB_8_COMPOSICION_RUEDA_H
 
 
 class Rueda {
@@ -15,4 +15,4 @@ public:
 };
 
 
-#endif //LAB_7_COMPOSICION_RUEDA_H
+#endif //LAB_8_COMPOSICION_RUEDA_H
