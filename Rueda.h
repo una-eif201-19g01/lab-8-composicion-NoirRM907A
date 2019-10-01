@@ -7,7 +7,11 @@
 
 
 class Rueda {
-
+private:
+public:
+	Rueda();
+	Rueda();
+	~Rueda();
 };
 
 

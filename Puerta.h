@@ -7,7 +7,11 @@
 
 
 class Puerta {
-
+private:
+public:
+	Puerta();
+	Puerta();
+	~Puerta();
 };
 
 

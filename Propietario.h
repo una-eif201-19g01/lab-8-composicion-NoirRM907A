@@ -7,7 +7,11 @@
 
 
 class Propietario {
-
+private:
+public:
+	Propietario();
+	Propietario();
+	~Propietario();
 };
 
 
