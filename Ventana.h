@@ -8,10 +8,26 @@
 
 class Ventana {
 private:
+	bool polarizada;
+	bool electrica;
+	bool estado;
 public:
-	Ventana();
-	Ventana();
-	~Ventana();
+	virtual Ventana();
+	virtual Ventana(bool, bool, bool);
+	virtual ~Ventana();
+
+	virtual void setPolarizada(bool);
+	virtual void setElectrica(bool);
+	virtual void setEstado(bool);
+
+	virtual bool getPolarizada();
+	virtual bool getElectrica();
+	virtual bool getEstado();
+
+
+
+
+
 };
 
 
